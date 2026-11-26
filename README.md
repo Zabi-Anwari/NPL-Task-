@@ -1,8 +1,4 @@
-# Rewriting a Poem with Word Associates (IWS 3)
 
-**Course:** Fundamentals of Dataset Development and Natural Language Processing
-**University:** Al-Farabi Kazakh National University, Faculty of IT and AI, 2026
-**Author:** Zabihullah Anwari
 
 This notebook takes a poem and replaces every **content word** (noun, verb, adjective, adverb) with its **closest semantic associate** from a large pretrained embedding model. Function words, punctuation and the **grammatical form** of each word stay the same. Then it looks at how the meaning changes.
 
